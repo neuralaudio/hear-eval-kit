@@ -16,7 +16,7 @@ python-slugify
 sed_eval
 soundfile
 spotty
-tensorflow>=2.0
+tensorflow>=2.12.0
 torch
 torchinfo
 tqdm
