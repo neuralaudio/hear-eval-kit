@@ -11,7 +11,7 @@ pynvml
 pytest
 pytest-cov
 pytest-env
-pytorch-lightning>=1.6
+pytorch-lightning>=2.4.0
 python-slugify
 sed_eval
 soundfile
